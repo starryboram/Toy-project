@@ -8,7 +8,8 @@
 * 활용한 데이터셋: https://www.kaggle.com/c/bike-sharing-demand
 [참고]
 1) [[ML_Project]Bike_Sharing_Demand(2022.04.25)](https://github.com/starryboram/Toy-project/blob/main/%5BML_Project%5DBike_Sharing_Demand(2022.04.25).ipynb): 팀원끼리 진행했던 프로젝트
-2) [ML_Project]Bike_Sharing_Demand(2022.05.22): 홀로 추가적으로 공부해서 진행한 프로젝트
+2) [[ML_Project]Bike_Sharing_Demand(2022.05.22)](https://github.com/starryboram/Toy-project/blob/main/%5BML_Project%5DBike_Sharing_Demand(2022.05.22).ipynb): 프로젝트 후에 홀로 추가적으로 공부해서 진행한 파일
+* 데이터 전처리 방법
 ![image](https://user-images.githubusercontent.com/102525066/191980153-7e47a740-5623-4d3e-9f6c-34aad82f92d5.png)
 
 ## Project2. X-RAY 사진 기반 폐렴 진단 프로젝트
