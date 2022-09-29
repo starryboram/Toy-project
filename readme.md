@@ -21,4 +21,4 @@
 * 평가지표: F1 Score
 * 데이터 처리내역 시각화
 ![image](https://user-images.githubusercontent.com/102525066/193054924-72ad9f14-ff4d-4e0c-9467-bbe0e8924910.png)
-* 진행 과정(: https://www.notion.so/Project-Chest-X-Ray-Images-Pneumonia-project-ca7e478b815042bea32b62e947df6e46
+* 진행 과정: https://www.notion.so/Project-Chest-X-Ray-Images-Pneumonia-project-ca7e478b815042bea32b62e947df6e46
